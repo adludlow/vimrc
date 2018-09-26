@@ -9,9 +9,9 @@ set number
 " Relative line numbers
 set relativenumber
 
-" Existing tabs 4 spaces
-set tabstop=4
-" when indenting with '>', use 4 spaces
-set shiftwidth=4
-" On pressing tab, indent 4 spaces
+" Existing tabs 2 spaces
+set tabstop=2
+" when indenting with '>', use 2 spaces
+set shiftwidth=2
+" On pressing tab, indent 2 spaces
 set expandtab
