@@ -15,3 +15,9 @@ set tabstop=2
 set shiftwidth=2
 " On pressing tab, indent 2 spaces
 set expandtab
+
+"split navigations
+nnoremap <C-J> <C-W><C-J>
+nnoremap <C-K> <C-W><C-K>
+nnoremap <C-L> <C-W><C-L>
+nnoremap <C-H> <C-W><C-H>
